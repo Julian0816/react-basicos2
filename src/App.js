@@ -14,6 +14,8 @@ import ScrollHooks from "./components/ScrollHooks";
 import RelojHooks from "./components/RelojHooks"
 import Pokemon from "./components/AjaxHooks"
 import "./App.css";
+import Referencias from "./components/Referencias";
+import Formularios from "./components/Formularios";
 
 function App() {
   return (
@@ -78,6 +80,25 @@ function App() {
           <RelojHooks />
           <hr />
           <Pokemon />
+          <hr />
+          <Referencias />
+          <hr />
+          <Formularios />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
         </section>
       </header>
     </div>
