@@ -16,6 +16,8 @@ import Pokemon from "./components/AjaxHooks"
 import "./App.css";
 import Referencias from "./components/Referencias";
 import Formularios from "./components/Formularios";
+import ComponentesEstilizados from "./components/ComponentesEstilizados";
+
 
 function App() {
   return (
@@ -84,6 +86,8 @@ function App() {
           <Referencias />
           <hr />
           <Formularios />
+          <hr />
+          <ComponentesEstilizados />
           <br />
           <br />
           <br />
